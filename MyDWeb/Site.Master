@@ -1,0 +1,169 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="MyDWeb.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+
+<%--    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />--%>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="Template/MyDStyles/scss/main.css">
+    <link rel="stylesheet" href="~/Template/MyDStyles/scss/skin.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+   
+    <script type="text/javascript">
+        function signOut_Click() {
+
+            var temp = "abcd";
+            $.ajax({
+                url: 'SiteMaster.master/SignOut_Click',
+                type: "GET",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (data) {
+                    result = $.parseJSON(data.d);
+                }
+            });
+        }
+    </script>
+ <script src="Template/MyDStyles/script/index.js"></script>
+</head>
+<%--<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+              
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">Application name</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="~/About">About</a></li>
+                        <li><a runat="server" href="~/Contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+            </footer>
+        </div>
+
+    </form>
+</body>--%>
+
+<body id="wrapper">
+
+    <section id="top-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7 col-sm-7 col-xs-7 top-header-links">
+                    <ul class="contact_links">
+                        <li><i class="fa fa-phone"></i><a href="#">+91 702 801 6966</a></li>
+                        <li><i class="fa fa-envelope"></i><a href="#">sales@mydsoftware.in</a></li>
+                    </ul>
+                </div>
+                <form runat="server">
+                <div class="col-md-5 col-sm-5 col-xs-5 social">
+                    <ul class="social_links">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                        <li><a href="#"><i class="fa fa-skype"></i></a></li>  
+                        <li>
+                                <%--<input type="button" id="btnSignOut" value="Signout" style="color:black" runat="server" 
+                                onclick="signOut_Click()" /> --%> 
+                            <asp:Button ID="btnSignout" runat="server" OnClick="btnSignout_Click" Text="Signout" ForeColor="Black" />
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+
+    </section>
+
+    <header>
+        <nav class="navbar navbar-inverse">
+            <div class="container">
+                <div class="row" style="background-color:#b6c3c3">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#">
+                            <h1>MyD</h1><span> Software Solutions</span>
+                        </a>
+                    </div>
+                    <div id="navbar" class="collapse navbar-collapse navbar-right">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="../../Modules/Home.aspx">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="portfolio.html">Portfolio</a></li>
+                            <li><a href="faq.html">FAQ</a></li>
+                            <li><a href="contact.html">Contact</a></li>                          
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div>
+    <asp:ContentPlaceHolder runat="server" ID="xyz">
+        
+    </asp:ContentPlaceHolder>
+        </div>
+        </form>
+    <div class="container body-content" style="background-color:#b6c3c3">
+        <hr />
+        <footer>
+            <p>&copy; <%=( DateTime.Now.Year) %> - All Copy Right to MyD </p>
+        </footer>
+    </div>
+</body>
+
+
+</html>

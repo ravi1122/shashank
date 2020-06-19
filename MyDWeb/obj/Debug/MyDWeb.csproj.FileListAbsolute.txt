@@ -1,0 +1,185 @@
+E:\MyD\MyD\MyDWeb\bin\ApplicationInsights.config
+E:\MyD\MyD\MyDWeb\bin\MyDWeb.dll.config
+E:\MyD\MyD\MyDWeb\bin\MyDWeb.dll
+E:\MyD\MyD\MyDWeb\bin\MyDWeb.pdb
+E:\MyD\MyD\MyDWeb\bin\roslyn\csc.exe
+E:\MyD\MyD\MyDWeb\bin\roslyn\csc.exe.config
+E:\MyD\MyD\MyDWeb\bin\roslyn\csc.rsp
+E:\MyD\MyD\MyDWeb\bin\roslyn\csi.exe
+E:\MyD\MyD\MyDWeb\bin\roslyn\csi.exe.config
+E:\MyD\MyD\MyDWeb\bin\roslyn\csi.rsp
+E:\MyD\MyD\MyDWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyD\MyD\MyDWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyD\MyD\MyDWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.AppContext.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Console.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Diagnostics.Process.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.IO.Compression.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.IO.Pipes.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Security.Claims.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Threading.Thread.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.ValueTuple.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Xml.XPath.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MyD\MyD\MyDWeb\bin\roslyn\vbc.exe
+E:\MyD\MyD\MyDWeb\bin\roslyn\vbc.exe.config
+E:\MyD\MyD\MyDWeb\bin\roslyn\vbc.rsp
+E:\MyD\MyD\MyDWeb\bin\roslyn\VBCSCompiler.exe
+E:\MyD\MyD\MyDWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\MyD\MyD\MyDWeb\bin\Antlr3.Runtime.dll
+E:\MyD\MyD\MyDWeb\bin\AspNet.ScriptManager.bootstrap.dll
+E:\MyD\MyD\MyDWeb\bin\AspNet.ScriptManager.jQuery.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AI.Web.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.ApplicationInsights.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.ScriptManager.WebForms.dll
+E:\MyD\MyD\MyDWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\MyD\MyD\MyDWeb\bin\MyDLibrary.dll
+E:\MyD\MyD\MyDWeb\bin\Newtonsoft.Json.dll
+E:\MyD\MyD\MyDWeb\bin\System.Diagnostics.DiagnosticSource.dll
+E:\MyD\MyD\MyDWeb\bin\System.Net.Http.Extensions.dll
+E:\MyD\MyD\MyDWeb\bin\System.Net.Http.Formatting.dll
+E:\MyD\MyD\MyDWeb\bin\System.Net.Http.Primitives.dll
+E:\MyD\MyD\MyDWeb\bin\System.Web.Optimization.dll
+E:\MyD\MyD\MyDWeb\bin\WebGrease.dll
+E:\MyD\MyD\MyDWeb\bin\MyDLibrary.pdb
+E:\MyD\MyD\MyDWeb\bin\System.Web.Optimization.xml
+E:\MyD\MyD\MyDWeb\bin\Newtonsoft.Json.xml
+E:\MyD\MyD\MyDWeb\bin\Antlr3.Runtime.pdb
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\MyD\MyD\MyDWeb\bin\System.Diagnostics.DiagnosticSource.xml
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\MyD\MyD\MyDWeb\bin\Microsoft.AI.Web.xml
+E:\MyD\MyD\MyDWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyD\MyD\MyDWeb\obj\Debug\MyDWeb.csprojAssemblyReference.cache
+E:\MyD\MyD\MyDWeb\obj\Debug\MyDWeb.csproj.CoreCompileInputs.cache
+E:\MyD\MyD\MyDWeb\obj\Debug\MyDWeb.csproj.CopyComplete
+E:\MyD\MyD\MyDWeb\obj\Debug\MyDWeb.dll
+E:\MyD\MyD\MyDWeb\obj\Debug\MyDWeb.pdb
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\ApplicationInsights.config
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\MyDWeb.dll.config
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\MyDWeb.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\MyDWeb.pdb
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\csc.exe
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\csc.exe.config
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\csc.rsp
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\csi.exe
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\csi.exe.config
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\csi.rsp
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.AppContext.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Console.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Diagnostics.Process.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.IO.Compression.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.IO.Pipes.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Security.Claims.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Threading.Thread.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.ValueTuple.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\vbc.exe
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\vbc.exe.config
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\vbc.rsp
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\VBCSCompiler.exe
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Antlr3.Runtime.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\AspNet.ScriptManager.jQuery.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AI.Web.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.ApplicationInsights.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\MyDLibrary.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Newtonsoft.Json.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\System.Net.Http.Extensions.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\System.Net.Http.Formatting.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\System.Net.Http.Primitives.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\System.Web.Optimization.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\WebGrease.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\MyDLibrary.pdb
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\System.Web.Optimization.xml
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Newtonsoft.Json.xml
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Antlr3.Runtime.pdb
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.AI.Web.xml
+D:\Users\Default User\Downloads\MyD\MyDWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Default User\Downloads\MyD\MyDWeb\obj\Debug\MyDWeb.csprojResolveAssemblyReference.cache
+D:\Users\Default User\Downloads\MyD\MyDWeb\obj\Debug\MyDWeb.csproj.CoreCompileInputs.cache
+D:\Users\Default User\Downloads\MyD\MyDWeb\obj\Debug\MyDWeb.dll
+D:\Users\Default User\Downloads\MyD\MyDWeb\obj\Debug\MyDWeb.pdb

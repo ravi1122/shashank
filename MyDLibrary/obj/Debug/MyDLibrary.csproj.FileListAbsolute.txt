@@ -1,0 +1,12 @@
+E:\MyD\MyD\MyDLibrary\bin\Debug\MyDLibrary.dll
+E:\MyD\MyD\MyDLibrary\bin\Debug\MyDLibrary.pdb
+E:\MyD\MyD\MyDLibrary\obj\Debug\MyDLibrary.csproj.CoreCompileInputs.cache
+E:\MyD\MyD\MyDLibrary\obj\Debug\MyDLibrary.dll
+E:\MyD\MyD\MyDLibrary\obj\Debug\MyDLibrary.pdb
+E:\MyD\MyD\MyDLibrary\obj\Debug\MyDLibrary.csprojAssemblyReference.cache
+D:\Users\Default User\Downloads\MyD\MyDLibrary\bin\Debug\MyDLibrary.dll
+D:\Users\Default User\Downloads\MyD\MyDLibrary\bin\Debug\MyDLibrary.pdb
+D:\Users\Default User\Downloads\MyD\MyDLibrary\obj\Debug\MyDLibrary.csprojResolveAssemblyReference.cache
+D:\Users\Default User\Downloads\MyD\MyDLibrary\obj\Debug\MyDLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Default User\Downloads\MyD\MyDLibrary\obj\Debug\MyDLibrary.dll
+D:\Users\Default User\Downloads\MyD\MyDLibrary\obj\Debug\MyDLibrary.pdb
